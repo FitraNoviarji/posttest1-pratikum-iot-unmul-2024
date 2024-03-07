@@ -1,7 +1,7 @@
 # posttest1-pratikum-iot-unmul-2024
 ### A. kelompok 7 A1 2021:
- 2109106017 Fitra Noviarji
- 2109106112 Sancto Metano Crozat
+ 1. 2109106017 Fitra Noviarji
+ 2. 2109106112 Sancto Metano Crozat
 
 ### B. Deskripsi :
 Perangkat ini menghasilkan output berupa dua lampu led yang bisa di nyalakan, ketika salah satu lampu led dinyalakan maka lampu lainnya mati, contohnya ketika led 1 nyala maka led 2 akan mati dan begitupun sebaliknya.
@@ -21,4 +21,5 @@ Perangkat ini menghasilkan output berupa dua lampu led yang bisa di nyalakan, ke
 ![espsekma](https://github.com/FitraNoviarji/posttest1-pratikum-iot-unmul-2024/assets/113648587/1b0188d3-0d4f-4f73-a104-dd90dfb4518a)
 
 ### F. OurDesaign
+![WhatsApp Image 2024-03-07 at 10 06 32](https://github.com/FitraNoviarji/posttest1-pratikum-iot-unmul-2024/assets/113648587/b2f183e2-0d84-40a6-852f-4647eedb77af)
 
