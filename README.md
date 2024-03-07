@@ -18,3 +18,5 @@ Perangkat ini menghasilkan output berupa dua lampu led yang bisa di nyalakan, ke
  5. breadboard
  6. 
 ### Skematic design
+![espsekma](https://github.com/FitraNoviarji/posttest1-pratikum-iot-unmul-2024/assets/113648587/1b0188d3-0d4f-4f73-a104-dd90dfb4518a)
+
